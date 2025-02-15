@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/imgolden77/Leet-code/tree/master/3447-clear-digits) |
+## Math
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/imgolden77/Leet-code/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/imgolden77/Leet-code/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
