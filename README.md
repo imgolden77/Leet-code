@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/imgolden77/Leet-code/tree/master/0189-rotate-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/imgolden77/Leet-code/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -34,8 +35,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imgolden77/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/imgolden77/Leet-code/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imgolden77/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/imgolden77/Leet-code/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
