@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/imgolden77/Leet-code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/imgolden77/Leet-code/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/imgolden77/Leet-code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/imgolden77/Leet-code/tree/master/0383-ransom-note) |
 | [3447-clear-digits](https://github.com/imgolden77/Leet-code/tree/master/3447-clear-digits) |
 ## Counting
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imgolden77/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/imgolden77/Leet-code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
