@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imgolden77/Leet-code/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/imgolden77/Leet-code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/imgolden77/Leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imgolden77/Leet-code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/imgolden77/Leet-code/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/imgolden77/Leet-code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/imgolden77/Leet-code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/imgolden77/Leet-code/tree/master/0383-ransom-note) |
 | [3447-clear-digits](https://github.com/imgolden77/Leet-code/tree/master/3447-clear-digits) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/imgolden77/Leet-code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imgolden77/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/imgolden77/Leet-code/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imgolden77/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/imgolden77/Leet-code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/imgolden77/Leet-code/tree/master/0217-contains-duplicate) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/imgolden77/Leet-code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/imgolden77/Leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imgolden77/Leet-code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
