@@ -1,27 +1,14 @@
+from collections import defaultdict
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        dictionary = []
+        anagrams = defaultdict(list)
 
-        for str in strs:
-            count={}
-            words=[]
-            s={}
-            fit = bool()
-            fit = False
-            for i in str:
-                count[i]=count.get(i, 0) + 1
-            for j in dictionary:
-                if count == j["count"]:
-                    j["words"].append(str)
-                    fit = True
-            if fit == False:        
-                s["count"]=count
-                s["words"]=[str]
-                dictionary.append(s)
-            
+        for word in strs:
+            count = [0] * 26  # 알파벳 26개
+            for c in word:
+                count[ord(c) - ord('a')] += 1
+            key = tuple(count)  # 리스트는 키로 못 쓰니 튜플로
+            anagrams[key].append(word)
 
-        result =[]
-        for j in dictionary:
-            result.append(j["words"])
-
-        return result
+        return list(anagrams.values())
