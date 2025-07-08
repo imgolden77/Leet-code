@@ -1,6 +1,12 @@
 class Solution:
-    def topKFrequent(self, nums, k):
-        count = Counter(nums)  # O(n)
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        record = Counter(nums)
+        heap = [(-freq, num) for num, freq in record.items()]
+        heapq.heapify(heap)
+        ret = []
+        while k > 0:
+            freq, num = heapq.heappop(heap)
+            ret.append(num)
+            k -= 1
 
-        # 가장 흔한 k개 추출 (최소 힙 사용)
-        return [item for item, freq in heapq.nlargest(k, count.items(), key=lambda x: x[1])]
+        return ret
