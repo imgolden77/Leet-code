@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/imgolden77/Leet-code/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/imgolden77/Leet-code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/imgolden77/Leet-code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/imgolden77/Leet-code/tree/master/0383-ransom-note) |
 | [3447-clear-digits](https://github.com/imgolden77/Leet-code/tree/master/3447-clear-digits) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imgolden77/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/imgolden77/Leet-code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/imgolden77/Leet-code/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
