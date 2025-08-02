@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/imgolden77/Leet-code/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/imgolden77/Leet-code/tree/master/0155-min-stack) |
 | [3447-clear-digits](https://github.com/imgolden77/Leet-code/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/imgolden77/Leet-code/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/imgolden77/Leet-code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
