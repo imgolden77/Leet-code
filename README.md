@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/imgolden77/Leet-code/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/imgolden77/Leet-code/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/imgolden77/Leet-code/tree/master/0739-daily-temperatures) |
 | [3447-clear-digits](https://github.com/imgolden77/Leet-code/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/imgolden77/Leet-code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/imgolden77/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/imgolden77/Leet-code/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/imgolden77/Leet-code/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/imgolden77/Leet-code/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/imgolden77/Leet-code/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/imgolden77/Leet-code/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
