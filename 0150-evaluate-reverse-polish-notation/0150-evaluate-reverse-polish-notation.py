@@ -17,5 +17,5 @@ class Solution:
             else:
                 s.append(int(token))
             
-        return s[0]
+        return s.pop()
             
