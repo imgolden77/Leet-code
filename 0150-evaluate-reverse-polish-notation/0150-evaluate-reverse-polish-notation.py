@@ -1,31 +1,21 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
         s=[]
+        valid = set('+-*/')
         for token in tokens:
-            try:
-                int(token)
-                s.append(int(token))
-                # print("debug_digit:", s)
-            except ValueError: 
+            if token in valid:
+                b= s.pop()
+                a= s.pop()
                 if token == "+":
-                    b= s.pop()
-                    a= s.pop()
                     s.append(a+b)
-                    # print("debug+:", s)
-                elif token == "-":
-                    b= s.pop()
-                    a= s.pop()
+                if token == "-":
                     s.append(a-b)
-                    # print("debug-:", s)
-                elif token == "*":
-                    b= s.pop()
-                    a= s.pop()
+                if token == "*":
                     s.append(a*b)
-                    # print("debug*:", s)
-                elif token == "/":
-                    b= s.pop()
-                    a= s.pop()
+                if token == "/":
                     s.append(int(a/b))
-                    # print("debug/:", s) 
+            else:
+                s.append(int(token))
+            
         return s[0]
             
