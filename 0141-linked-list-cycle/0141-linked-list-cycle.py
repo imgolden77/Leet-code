@@ -6,14 +6,13 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        curr = head
-        stack = []
+        turtle = head
+        rabbit = head
 
-        while curr is not None:
-            if curr not in stack:
-                stack.append(curr)
-            else:
+        while turtle is not None and rabbit is not None and rabbit.next is not None:
+            turtle = turtle.next
+            rabbit = rabbit.next.next
+            if turtle == rabbit:
                 return True
-            curr=curr.next
         
         return False
