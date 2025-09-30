@@ -9,7 +9,7 @@ class Solution:
         turtle = head
         rabbit = head
 
-        while turtle is not None and rabbit is not None and rabbit.next is not None:
+        while rabbit and rabbit.next:
             turtle = turtle.next
             rabbit = rabbit.next.next
             if turtle == rabbit:
