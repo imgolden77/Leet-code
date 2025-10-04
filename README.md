@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/imgolden77/Leet-code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/imgolden77/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/imgolden77/Leet-code/tree/master/0347-top-k-frequent-elements) |
+| [0695-max-area-of-island](https://github.com/imgolden77/Leet-code/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/imgolden77/Leet-code/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/imgolden77/Leet-code/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/imgolden77/Leet-code/tree/master/0883-car-fleet) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/imgolden77/Leet-code/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/imgolden77/Leet-code/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/imgolden77/Leet-code/tree/master/0695-max-area-of-island) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,12 +165,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/imgolden77/Leet-code/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/imgolden77/Leet-code/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/imgolden77/Leet-code/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/imgolden77/Leet-code/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/imgolden77/Leet-code/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/imgolden77/Leet-code/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
