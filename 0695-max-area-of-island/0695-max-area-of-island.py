@@ -16,17 +16,12 @@ class Solution:
             area += dfs(r, c-1)
             area += dfs(r, c+1)
 
-            print("dfs2:", area)
-
             return area
-
-    
 
         for r in range(rows):
             for c in range(cols):
                 if grid[r][c] == 1:
                     area = dfs(r, c)
-                    print("For:", area)
                     max_area = max(area, max_area)
         
         return max_area
