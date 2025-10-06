@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/imgolden77/Leet-code/tree/master/0078-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/imgolden77/Leet-code/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/imgolden77/Leet-code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/imgolden77/Leet-code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/imgolden77/Leet-code/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/imgolden77/Leet-code/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imgolden77/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imgolden77/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imgolden77/Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/imgolden77/Leet-code/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/imgolden77/Leet-code/tree/master/0695-max-area-of-island) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/imgolden77/Leet-code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
