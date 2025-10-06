@@ -7,11 +7,8 @@ class Solution:
                 curr = r.copy()
                 if nums[idx] not in curr:
                     curr.append(nums[idx])
-                    print("curr:", curr)
                     res.append(curr)
-                    print("res:", res)
-
-            
+                             
         for idx in range(n):
             dp(idx)
         
