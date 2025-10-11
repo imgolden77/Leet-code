@@ -2,16 +2,24 @@ class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
         curr =[]
-        def backtrack(nums):
+        n= len(nums)
+        visited =[False]*n
 
-            if not nums:
+        def backtrack():
+            if visited == [True]*n:
                 res.append(list(curr))
                 return
 
-            for i in range(len(nums)):
-                curr.append(nums[i])
-                backtrack(nums[:i]+nums[i+1:])
-                curr.pop()
+            for i in range(n):
+                if visited[i] == False:
+                    curr.append(nums[i])
+                    visited[i] = True
 
-        backtrack(nums)
+                    backtrack()
+
+                    visited[i] = False
+                    curr.pop()
+
+        backtrack()
         return res
+
