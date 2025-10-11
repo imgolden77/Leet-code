@@ -6,15 +6,12 @@ class Solution:
 
             if not nums:
                 res.append(list(curr))
-                print("results:", res)
                 return
 
             for i in range(len(nums)):
                 curr.append(nums[i])
-                print("curr:", curr, "nums:", nums)
                 backtrack(nums[:i]+nums[i+1:])
                 curr.pop()
 
         backtrack(nums)
-        print("res:", res)
         return res
