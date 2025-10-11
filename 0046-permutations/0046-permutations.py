@@ -1,16 +1,20 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        results = []
-        current_permutation = []
+        res = []
+        curr =[]
         def backtrack(nums):
+
             if not nums:
-                results.append(list(current_permutation))
+                res.append(list(curr))
+                print("results:", res)
                 return
 
             for i in range(len(nums)):
-                current_permutation.append(nums[i])
-                backtrack(nums[:i] + nums[i+1:])
-                current_permutation.pop()
+                curr.append(nums[i])
+                print("curr:", curr, "nums:", nums)
+                backtrack(nums[:i]+nums[i+1:])
+                curr.pop()
 
         backtrack(nums)
-        return results
+        print("res:", res)
+        return res
