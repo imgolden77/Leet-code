@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/imgolden77/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/imgolden77/Leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imgolden77/Leet-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/imgolden77/Leet-code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/imgolden77/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/imgolden77/Leet-code/tree/master/0383-ransom-note) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imgolden77/Leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/imgolden77/Leet-code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/imgolden77/Leet-code/tree/master/0268-missing-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/imgolden77/Leet-code/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/imgolden77/Leet-code/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/imgolden77/Leet-code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/imgolden77/Leet-code/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/imgolden77/Leet-code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/imgolden77/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/imgolden77/Leet-code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/imgolden77/Leet-code/tree/master/0733-flood-fill) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/imgolden77/Leet-code/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/imgolden77/Leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imgolden77/Leet-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/imgolden77/Leet-code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/imgolden77/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/imgolden77/Leet-code/tree/master/0883-car-fleet) |
 ## Divide and Conquer
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/imgolden77/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/imgolden77/Leet-code/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imgolden77/Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/imgolden77/Leet-code/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/imgolden77/Leet-code/tree/master/0792-binary-search) |
 ## Greedy
 |  |
@@ -190,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/imgolden77/Leet-code/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/imgolden77/Leet-code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
