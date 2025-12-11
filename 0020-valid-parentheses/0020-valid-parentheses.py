@@ -6,9 +6,9 @@ class Solution:
         for i in s:
             if i in par_map.values():
                 stack.append(i)
-            elif stack == []:
-                return False
-            elif stack[-1]== par_map[i]:
+            elif i in par_map:
+                if not stack or stack[-1] !=par_map[i]:
+                    return False
                 stack.pop()
             else:
                 return False
