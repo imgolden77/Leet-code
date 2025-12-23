@@ -7,7 +7,7 @@ class Solution:
                 h.append(i)
                 print(h)
             else:
-                max_s = max(max_s, len(h))
+                # max_s = max(max_s, len(h))
                 h=h[h.index(i)+1:]
                 h.append(i)
             max_s = max(max_s, len(h))
