@@ -9,7 +9,8 @@ class Solution:
                 seen[char] = 1
             else:
                 seen[char] += 1
-            if i - start - max(list(seen.values())) + 1 <= k:
+            max_val = max(list(seen.values()))
+            if i - start - max_val + 1 <= k:
                 max_len = max(max_len, i - start + 1)
             else:
                 seen[s[start]] -= 1
