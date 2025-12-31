@@ -3,7 +3,6 @@ class Solution:
         if n == 0:
             return 0
         res = 0
-        res_str = ""
         for i in range(32):
             bit = n & 1
             res = res + bit
