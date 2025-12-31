@@ -4,11 +4,10 @@ class Solution:
             return 0
         res = 0
         for i in range(32):
+            res = res << 1
             bit = n & 1
             res = res + bit
-            res = res << 1
             n = n >> 1
-        res = res >> 1
             
 
         return res
