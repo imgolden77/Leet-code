@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/imgolden77/Leet-code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/imgolden77/Leet-code/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/imgolden77/Leet-code/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/imgolden77/Leet-code/tree/master/0647-palindromic-substrings) |
 | [3447-clear-digits](https://github.com/imgolden77/Leet-code/tree/master/3447-clear-digits) |
 ## Counting
 |  |
@@ -98,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/imgolden77/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imgolden77/Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/imgolden77/Leet-code/tree/master/0189-rotate-array) |
+| [0647-palindromic-substrings](https://github.com/imgolden77/Leet-code/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imgolden77/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/imgolden77/Leet-code/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
