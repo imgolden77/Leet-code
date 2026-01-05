@@ -4,15 +4,26 @@
 #         self.val = x
 #         self.next = None
 
+# class Solution:
+#     def hasCycle(self, head: Optional[ListNode]) -> bool:
+#         curr = head 
+#         while curr.next != None:
+#             fast = curr.next.next
+#             slow = curr
+#             if slow
+        
+#         return false
+
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        turtle = head
-        rabbit = head
+        curr = head
+        values = set()
 
-        while rabbit and rabbit.next:
-            turtle = turtle.next
-            rabbit = rabbit.next.next
-            if turtle == rabbit:
+        while curr:
+            if curr in values:
                 return True
-        
+           
+            values.add(curr)
+            curr = curr.next
+
         return False
