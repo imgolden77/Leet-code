@@ -9,8 +9,6 @@ class Solution:
             prevMin = curMin
             curMax = max(num, num * prevMax, num * prevMin)
             curMin = min(num, num * prevMax, num * prevMin)
-            res = max(curMax, res)
-            print(num, curMax, curMin, res)
-            
+            res = max(curMax, res)     
         
         return res
